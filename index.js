@@ -1,1 +1,1 @@
-module.exports = require('./lib/TemplateModule');
+export { default } from './lib/TemplateModule.js';
